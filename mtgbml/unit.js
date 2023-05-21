@@ -1,4 +1,4 @@
-class unit {
+class Unit {
   constructor() {
     this.dna = {};
   }
