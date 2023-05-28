@@ -1,6 +1,5 @@
 class DNA {
-  constructor(dnaString, delimiter) {
-    this.dna = dnaString;
-    this.delimiter = delimiter;
+  constructor(dnaArray) {
+    this.dna = dnaArray;
   }
 }
